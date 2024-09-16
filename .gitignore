@@ -1,0 +1,8 @@
+# Ignora a pasta .vs, que contém dados temporários do Visual Studio
+.vs/
+# Ignorar arquivos temporários, logs e backups
+bin/
+obj/
+*.log
+*.tmp
+*.bak

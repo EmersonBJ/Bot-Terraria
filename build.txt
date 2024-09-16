@@ -1,0 +1,3 @@
+displayName = MinerSocietyMod_V0.14
+author = AIgen
+version = 0.1

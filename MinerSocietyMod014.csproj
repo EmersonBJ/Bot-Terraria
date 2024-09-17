@@ -9,6 +9,7 @@
 	</PropertyGroup>
 	<ItemGroup>
 	  <None Remove="Assets\MinerPickaxe.png" />
+	  <None Remove="Tetste.txt" />
 	</ItemGroup>
 	<ItemGroup>
 	  <PackageReference Include="Microsoft.ML" Version="3.0.1" />
